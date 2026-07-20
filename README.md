@@ -19,11 +19,11 @@ Here I document game production case studies, project management systems, and in
 
 ## Selected projects
 
-- 🎮 **Game Production Case Study** — Roadmap, milestones, risks, dependencies, and release planning
-- 🕹️ **Interactive Game Prototypes** — Gameplay iteration, testing, and improvement
-- 🤖 **AI Product Experiments** — Practical tools and interactive experiences built with AI
+- **Game Production Case Study** — Roadmap, milestones, risks, dependencies, and release planning
+- **Interactive Game Prototypes** — Gameplay iteration, testing, and improvement
+- **AI Product Experiments** — Practical tools and interactive experiences built with AI
 
 ## Contact
 
-📍 Buenos Aires (CABA), Argentina  
-🌎 Open to remote opportunities
+Buenos Aires (CABA), Argentina  
+Open to remote opportunities
