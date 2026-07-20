@@ -17,13 +17,13 @@ I bring structure and clarity to creative and technical projects, turning comple
 
 Here I document game production case studies, project management systems, and interactive prototypes — with a focus on realistic planning, clear communication, and player-centered delivery.
 
-## Selected projects
+## Selected Project
 
-- **Game Production Case Study** — Roadmap, milestones, risks, dependencies, and release planning
-- **Interactive Game Prototypes** — Gameplay iteration, testing, and improvement
-- **AI Product Experiments** — Practical tools and interactive experiences built with AI
+- [**La Última Tanda — Game Production Case Study**](https://github.com/florenciasolangetapia/game-production-case-study) — Production planning, milestones, risks, dependencies, QA, and release readiness for a fictional indie game.
 
 ## Contact
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/florencia-solange-tapia-6955ab127/)
 
 Buenos Aires (CABA), Argentina  
 Open to remote opportunities
